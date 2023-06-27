@@ -47,3 +47,4 @@ C:\Users\user1\Documents\פרקטיקוד חדש\ToDoApi\bin\Debug\net6.0\Swashb
 C:\Users\user1\Documents\פרקטיקוד חדש\ToDoApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\user1\Documents\פרקטיקוד חדש\ToDoApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\user1\Documents\פרקטיקוד חדש\ToDoApi\obj\Debug\net6.0\ToDoApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user1\Documents\פרקטיקוד חדש\ToDoApi\bin\Debug\net6.0\package-lock.json
